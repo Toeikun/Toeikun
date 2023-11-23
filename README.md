@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Banner](header.png)
 <!--
 **Toeikun/Toeikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
