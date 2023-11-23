@@ -41,7 +41,7 @@ I am a full-time Senior Programmer in MEDEZE GROUP PUBLIC COMPANY LIMITED and pa
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toeikun&theme=highcontrast)](https://github.com/Toeikun)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toeikun&theme=radical)](https://github.com/Toeikun)
 
 
 <!--
