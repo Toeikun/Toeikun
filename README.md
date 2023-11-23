@@ -24,11 +24,6 @@ I am a full-time Senior Programmer in MEDEZE GROUP PUBLIC COMPANY LIMITED and pa
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 📈 Github Stat
-
-[![Github Status](https://github-readme-stats.vercel.app/api?username=Toeikun&count_private=true&theme=onedark&show_icons=true)](https://github.com/MEDEZE-GROUP/ERP_V2)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toeikun&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/MEDEZE-GROUP/ERP_V2)
 <!--
 **Toeikun/Toeikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
