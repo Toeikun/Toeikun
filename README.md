@@ -26,9 +26,9 @@ I am a full-time Senior Programmer in MEDEZE GROUP PUBLIC COMPANY LIMITED and pa
 
 ## 📈 Github Stat
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=Toeikun&count_private=true&theme=onedark&show_icons=true)](https://github.com/Toeikun)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=Toeikun&count_private=true&theme=onedark&show_icons=true)](https://github.com/MEDEZE-GROUP/ERP_V2)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toeikun&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/Toeikun)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toeikun&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/MEDEZE-GROUP/ERP_V2)
 <!--
 **Toeikun/Toeikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
