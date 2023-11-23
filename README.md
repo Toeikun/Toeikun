@@ -1,4 +1,8 @@
 ![Banner](header.png)
+
+I am a full-time Senior Programmer in MEDEZE GROUP PUBLIC COMPANY LIMITED and part-time Freelance web developer and ERP system. I have started programmer since the internship and develop some web application to join some contest to get more experience then my goals are Devops improve myself to share knowledge in my team.. 
+
+🌱 In addition to Android Development, I am interest in Programming, Design, Blockchain, Chatbot, Business & Innovation.
 <!--
 **Toeikun/Toeikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
