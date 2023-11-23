@@ -2,6 +2,9 @@
 
 I am a full-time Senior Programmer in MEDEZE GROUP PUBLIC COMPANY LIMITED and part-time Freelance web developer and ERP system. I have started programmer since the internship and develop some web application to join some contest to get more experience then my goals are Devops improve myself to share knowledge in my team.
 
+## 📫 Social
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chayut.phurktanad/)
+
 ## 💻 My Tech Stack
 
 #### Senior Developer
