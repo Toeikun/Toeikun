@@ -37,12 +37,6 @@ I am a full-time Senior Programmer in MEDEZE GROUP PUBLIC COMPANY LIMITED and pa
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## 📈 Github Stat
-
-[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toeikun)](https://github.com/Toeikun)
-
 
 <!--
 **Toeikun/Toeikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
